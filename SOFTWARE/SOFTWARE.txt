@@ -1,1 +1,1 @@
-Flutter Applicaton
+A Flutter Applicaton
